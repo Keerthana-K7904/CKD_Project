@@ -1,0 +1,8 @@
+{
+  "Age": "age",
+  "Gender": "gender",
+  "GFR": "gfr",
+  "SerumCreatinine": "creatinine",
+  "SystolicBP": "blood_pressure_systolic",
+  "DiastolicBP": "blood_pressure_diastolic"
+}

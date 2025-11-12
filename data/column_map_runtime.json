@@ -1,0 +1,14 @@
+﻿{
+  "features": [
+    "Age","Gender","BMI","Smoking",
+    "SystolicBP","DiastolicBP","FastingBloodSugar","HbA1c",
+    "SerumCreatinine","BUNLevels","GFR","ProteinInUrine","ACR",
+    "HemoglobinLevels","CholesterolTotal","CholesterolLDL","CholesterolHDL","CholesterolTriglycerides"
+  ],
+  "categorical": ["Gender","Smoking"],
+  "numerical": [
+    "Age","BMI","SystolicBP","DiastolicBP","FastingBloodSugar","HbA1c",
+    "SerumCreatinine","BUNLevels","GFR","ProteinInUrine","ACR",
+    "HemoglobinLevels","CholesterolTotal","CholesterolLDL","CholesterolHDL","CholesterolTriglycerides"
+  ]
+}
